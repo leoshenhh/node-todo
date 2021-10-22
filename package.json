@@ -1,0 +1,24 @@
+{
+  "name": "node-todo-leoshenhh",
+  "bin": {
+    "t": "cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "version": "0.0.2",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "global": "^4.4.0",
+    "inquirer": "^7.0.0",
+    "node-todo-leoshenhh": "^0.0.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
